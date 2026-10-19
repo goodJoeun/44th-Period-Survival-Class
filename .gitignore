@@ -1,0 +1,24 @@
+# RPG Maker MZ - 세이브와 배포 빌드
+game/save/
+*.rmmzsave
+*.rpgsave
+output/
+deploy/
+build/
+game/package.json.bak
+
+# 에디터·OS 임시 파일
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp
+*~
+.vscode/
+.idea/
+
+# Node (플러그인 개발 시)
+node_modules/
+
+# 그래픽 툴 백업
+*.psd~
+*.aseprite~
